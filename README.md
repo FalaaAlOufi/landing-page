@@ -22,4 +22,4 @@ For specific, detailed instructions, look at the project instructions in the Uda
 ## Library
 
 AOS: Animate On Scroll Library
-- Link: <a https://michalsnik.github.io/aos/ />
+- Link: https://michalsnik.github.io/aos/ 
